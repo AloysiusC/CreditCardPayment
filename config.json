@@ -1,0 +1,7 @@
+{
+"gateways": {
+    "CheapPaymentgateway" : false,
+    "ExpensivePaymentGateway" : true,
+    "PremiumPaymentGateway" : false
+    }
+}
